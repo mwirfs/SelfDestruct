@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file:///Volumes/DATA/Users/mwirfs/Desktop/SelfDestruct/SelfDestruct.iml" filepath="/Volumes/DATA/Users/mwirfs/Desktop/SelfDestruct/SelfDestruct.iml" />
+      <module fileurl="file:///Volumes/DATA/Users/mwirfs/Desktop/SelfDestruct/app/app.iml" filepath="/Volumes/DATA/Users/mwirfs/Desktop/SelfDestruct/app/app.iml" />
+      <module fileurl="file:///Volumes/DATA/Users/mwirfs/Desktop/SelfDestruct/enterprisecode/enterprisecode.iml" filepath="/Volumes/DATA/Users/mwirfs/Desktop/SelfDestruct/enterprisecode/enterprisecode.iml" />
+    </modules>
+  </component>
+</project>
